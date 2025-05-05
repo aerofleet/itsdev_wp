@@ -1,0 +1,25 @@
+# WordPress core
+/wp-admin/
+/wp-includes/
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+*.log
+*.sql
+*.tar.gz
+*.zip
+
+# Plugin and theme cache
+wp-content/cache/
+/wp-content/upgrade/
+/wp-content/backups/
+
+# Uploads (choose to ignore or track separately)
+wp-content/uploads/
+
+# Sensitive config
+wp-config.php
+
+# Git system files
+.git/
