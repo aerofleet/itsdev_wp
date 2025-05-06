@@ -9,6 +9,7 @@
 <!DOCTYPE html>
 <html class="<?php echo esc_attr( oceanwp_html_classes() ); ?>" <?php language_attributes(); ?>>
 <head>
+	<meta name='impact-site-verification' value='df20eaad-51bf-471d-a921-35163e6d84e9'>
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 
