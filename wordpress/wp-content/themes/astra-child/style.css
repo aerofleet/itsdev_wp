@@ -1,0 +1,12 @@
+/*
+ Theme Name:   Astra Child
+ Theme URI:    https://itsdev.kr/
+ Description:  자식 테마 for Astra
+ Author:       itsdev
+ Template:     astra
+ Version:      1.0.0
+*/
+
+/* 부모 테마 스타일 가져오기 */
+@import url("../astra/style.css");
+

@@ -124,6 +124,12 @@ final class OCEANWP_Theme_Class {
 			add_filter( 'fl_builder_override_lightbox', array( 'OCEANWP_Theme_Class', 'remove_bb_lightbox' ) );
 
 			add_filter( 'ocean_enqueue_generated_files', '__return_false' );
+
+			add_filter( 'edit_post_link', function( $link ) {
+				$link = str_replace( '수정', '<i class="fas fa-pen-alt"></i>', $link );
+				return $link;
+			});
+			
 		}
 	}
 

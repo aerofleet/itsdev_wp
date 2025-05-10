@@ -1,0 +1,2 @@
+<?php
+return ['project-id-version'=>'Ocean Extra 2.4.7','report-msgid-bugs-to'=>'https://wordpress.org/support/plugin/ocean-extra','last-translator'=>'','language-team'=>'한국어','mime-version'=>'1.0','content-type'=>'text/plain; charset=UTF-8','content-transfer-encoding'=>'8bit','pot-creation-date'=>'2025-04-21T08:18:35+00:00','po-revision-date'=>'2025-05-07 15:37+0000','x-generator'=>'Loco https://localise.biz/','x-domain'=>'ocean-extra','language'=>'ko_KR','plural-forms'=>'nplurals=1; plural=0;','x-loco-version'=>'2.7.2; wp-6.8.1','messages'=>['Comments'=>'댓글']];
